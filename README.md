@@ -2,7 +2,7 @@
 this is Flight bookin application which allow both admin and user to do many things.
 
 ## Security:
-Request and Responses in this application are secured through **JSON Web Tokens**-based authentication and authorization system.
+Request and Responses in this application are secured through **JSON Web Tokens**-based authentication and authorization system.<br>
 ##############################################
 ### . APIs :
 
