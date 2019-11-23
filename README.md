@@ -1,6 +1,9 @@
 # FlightBookingSystem
 this is Flight bookin application which allow both admin and user to do many things.
 
+## Security:
+Request and Responses in this application are secured through **JSON Web Tokens**-based authentication and authorization system.
+##############################################
 ### . APIs :
 
 #### Public:
@@ -20,7 +23,3 @@ this is Flight bookin application which allow both admin and user to do many thi
 ###### . POST ticket ( book a flight)
 ###### . DELETE ticket ( cancel a flight)
 ###### . UPDATE ticket ( upgrade  flight)
-##############################################
-## Security:
-Request and Responses in this application are secured through **JSON Web Tokens**-based authentication and authorization system.
-  
